@@ -17,26 +17,6 @@ Technologies
 - CSS
 - JavaScript
 
-Setup
-
-To get a local copy up and running follow these steps:
-
-1. Clone the repository:
-
-    bash
-    git clone https://github.com/your-username/form-validator.git
-    
-
-2. Navigate to the project directory:
-
-    bash
-    cd form-validator
-    
-
-3. Open `index.html` in your browser:
-
-    You can simply open the `index.html` file in your web browser to see the form in action.
-
 Usage
 
 - Fill in the username, email, and password fields.
